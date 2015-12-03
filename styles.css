@@ -1,0 +1,43 @@
+body {
+	font-family: "Liberation Sans", Helvetica, Arial, sans-serif;
+	font-size:   10pt;
+}
+
+table {
+	border: 1px solid black;
+}
+
+td{
+	padding: 4px 6px;
+}
+
+td#remove{
+	text-align: center;
+}
+
+.nav {
+	position: relative;
+}
+
+.content {
+	position: relative;
+	top: 8pt;
+}
+
+.button {
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+	border: 1px solid black;
+	border-radius: 2px;
+}
+
+.add {
+	color: black;
+	background-color: #40FFFF;
+}
+
+.remove {
+	color: white;
+	background-color: #FF4040;
+}
